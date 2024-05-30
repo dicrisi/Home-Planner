@@ -1,0 +1,216 @@
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.exe
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.xml
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.pdb
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\bin\Debug\erpnew.exe
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\bin\Debug\erpnew.pdb
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\bin\Debug\erpnew.xml
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\ResolveAssemblyReference.cache
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmAddUser.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmCustomer.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmEmployee.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmLabour.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmMain.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmRawMat.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmSupplier.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.frmTrans.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.Resources.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.Login.resources
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew\bin\Debug\erpnew.exe.config
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\bin\Debug\erpnew.exe.config
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.exe
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.xml
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.pdb
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\bin\Debug\erpnew.exe
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\bin\Debug\erpnew.pdb
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\bin\Debug\erpnew.xml
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\ResolveAssemblyReference.cache
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmAddUser.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmCustomer.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmEmployee.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmLabour.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmMain.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmRawMat.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmSupplier.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.frmTrans.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.Resources.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.Login.resources
+D:\To Colleges 2012\engg\PSG Tech\MSC CT\ERP FOR CONSTRUCTION COMPANY\erpnew ok\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+C:\New folder (2)\erpnew ok\erpnew\bin\Debug\erpnew.exe.config
+C:\New folder (2)\erpnew ok\erpnew\obj\Debug\erpnew.exe
+C:\New folder (2)\erpnew ok\erpnew\obj\Debug\erpnew.xml
+C:\New folder (2)\erpnew ok\erpnew\obj\Debug\erpnew.pdb
+C:\New folder (2)\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+C:\New folder (2)\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+C:\New folder (2)\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+C:\New folder (2)\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+C:\New folder (2)\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+D:\To College 2014\Arts\Krishna Arts\BCA\OK\ERP FOR CONSTRUCTION COMPANY\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+C:\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+C:\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+C:\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+C:\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+C:\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+C:\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmQuotReport.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmQuotReport.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+F:\Projects in my lap\Development\ERP\ERP for Construction complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmQuotReport.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmQuotReport.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+I:\To College 2023\Arts\Pioneeer\Bsc IT\OK\ERP FOR CONSTRUCTION COMPANY Complete\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+J:\Home Planner\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe.config
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.exe
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.xml
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.pdb
+J:\Home Planner\erpnew ok-construction\erpnew\bin\Debug\erpnew.exe
+J:\Home Planner\erpnew ok-construction\erpnew\bin\Debug\erpnew.pdb
+J:\Home Planner\erpnew ok-construction\erpnew\bin\Debug\erpnew.xml
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\ResolveAssemblyReference.cache
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmAddUser.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustomer.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmEmployee.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmLabour.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmMain.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmQuotReport.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmRawMat.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupplier.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.frmTrans.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.Resources.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.Login.resources
+J:\Home Planner\erpnew ok-construction\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache

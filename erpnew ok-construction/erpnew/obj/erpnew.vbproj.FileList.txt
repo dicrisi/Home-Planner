@@ -1,0 +1,13 @@
+bin\Debug\erpnew.exe
+bin\Debug\erpnew.pdb
+bin\Debug\erpnew.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\erpnew.Form1.resources
+obj\Debug\erpnew.Resources.resources
+obj\Debug\erpnew.newuser.resources
+obj\Debug\erpnew.UserLogin.resources
+obj\Debug\erpnew.vbproj.GenerateResource.Cache
+obj\Debug\erpnew.exe
+obj\Debug\erpnew.xml
+obj\Debug\erpnew.pdb
+obj\Debug\erpnew.Adminlogin.resources

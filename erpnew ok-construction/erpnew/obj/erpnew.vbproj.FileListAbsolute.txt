@@ -1,0 +1,100 @@
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.exe
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.xml
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.pdb
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\ResolveAssemblyReference.cache
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmMain.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.Resources.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.Login.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+E:\Nanda\Development\ERP\erpnew\erpnew\bin\Debug\erpnew.exe
+E:\Nanda\Development\ERP\erpnew\erpnew\bin\Debug\erpnew.pdb
+E:\Nanda\Development\ERP\erpnew\erpnew\bin\Debug\erpnew.xml
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmEmployee.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmCustomer.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmSupplier.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmRawMat.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmAddUser.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmLabour.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmTrans.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.rptCust.rpt
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.rptSup.rpt
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.rptProd.rpt
+E:\Nanda\Development\ERP\erpnew\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.exe
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.xml
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.pdb
+E:\Nanda\Development\ERP\erpnew ok\erpnew\bin\Debug\erpnew.exe
+E:\Nanda\Development\ERP\erpnew ok\erpnew\bin\Debug\erpnew.pdb
+E:\Nanda\Development\ERP\erpnew ok\erpnew\bin\Debug\erpnew.xml
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\ResolveAssemblyReference.cache
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.rptCust.rpt
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.rptProd.rpt
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.rptSup.rpt
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmAddUser.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmCustomer.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmEmployee.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmLabour.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmMain.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmRawMat.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmSupplier.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.frmTrans.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.Resources.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.Login.resources
+E:\Nanda\Development\ERP\erpnew ok\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.exe
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.xml
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.pdb
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\bin\Debug\erpnew.exe
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\bin\Debug\erpnew.pdb
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\bin\Debug\erpnew.xml
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\ResolveAssemblyReference.cache
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.rptCust.rpt
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.rptProd.rpt
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.rptSup.rpt
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmAddUser.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmCustomer.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmEmployee.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmLabour.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmMain.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmRawMat.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmSupplier.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmTrans.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.Resources.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.Login.resources
+E:\Nanda\Development\ERP\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.exe
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.xml
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.pdb
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\bin\Debug\erpnew.exe
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\bin\Debug\erpnew.pdb
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\bin\Debug\erpnew.xml
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.rptCust.rpt
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.rptProd.rpt
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.rptSup.rpt
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmAddUser.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmChangePwd.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmCustomer.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmCustRpt.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmEmployee.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmLabour.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmProdRpt.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmRawMat.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmSupplier.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmSupRpt.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.frmTrans.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.Login.resources
+C:\Documents and Settings\Administrator\Desktop\ERP for Construction - Swathika\erpnew ok\erpnew\obj\Debug\erpnew.vbproj.GenerateResource.Cache

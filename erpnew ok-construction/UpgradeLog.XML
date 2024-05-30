@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="erpnew">
+</Property><Property Name="Solution File" Value="D:\To Colleges 2011\Engg\Kongu Engg\MSC SE\ok\ERP FOR CONSTRUCTION COMPANY - Sivashankar\erpnew ok\erpnew.sln">
+</Property><Property Name="Date" Value="02 February, 2012">
+</Property><Property Name="Time" Value="12:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="erpnew" Source="erpnew\erpnew.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="erpnew" Source="erpnew\erpnew.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="erpnew.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="erpnew.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="erpnew" Source="erpnew\erpnew.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
